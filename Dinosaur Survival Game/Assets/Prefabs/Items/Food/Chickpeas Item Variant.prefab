@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!135 &2103226692
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8556692033226096251}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &3757515939737985156
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4799177796748861183, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_Name
+      value: Chickpeas Item
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -23.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7008863914442339907, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7323272242103510226, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: itemScriptableObject
+      value: 
+      objectReference: {fileID: 11400000, guid: fd10ed3b3af46864faeede8e0f4b7ca3, type: 2}
+    - target: {fileID: 8619811616232423653, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -1905343259981719660, guid: c364fd3c14d264044b0c000392824a19, type: 3}
+    m_RemovedComponents:
+    - {fileID: 1693395549546934088, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+--- !u!1 &8556692033226096251 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4799177796748861183, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
+  m_PrefabInstance: {fileID: 3757515939737985156}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f249c38b513aa0f45bd1621ba6730322, type: 3}
+  m_Name: Gold Sword
+  m_EditorClassIdentifier: 
+  ingredients:
+  - item: {fileID: 11400000, guid: 04029be1866db374da38083f04127e6b, type: 2}
+    itemAmount: 38
+  outcomeIngredientPrefab: {fileID: 1913060998720575703, guid: 016f5e6b48c970641a913fbe4ad65c95, type: 3}

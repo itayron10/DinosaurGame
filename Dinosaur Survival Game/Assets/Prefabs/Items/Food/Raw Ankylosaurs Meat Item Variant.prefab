@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7475978860978327781
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2103226692, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Height
+      value: 2.7066803
+      objectReference: {fileID: 0}
+    - target: {fileID: 2103226692, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Center.z
+      value: 0.13718748
+      objectReference: {fileID: 0}
+    - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Size.x
+      value: 2.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Size.y
+      value: 2.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Size.z
+      value: 2.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Center.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Center.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6463793147208667531, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Name
+      value: Raw Ankylosaurs Meat Item
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832221165929336721, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -7129693425605949520, guid: c364fd3c14d264044b0c000392824a19, type: 3}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -23.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820976903057963319, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9119620007840230310, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: itemScriptableObject
+      value: 
+      objectReference: {fileID: 11400000, guid: 94e7fe13a1424aa43bdde75f0527c5f8, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}

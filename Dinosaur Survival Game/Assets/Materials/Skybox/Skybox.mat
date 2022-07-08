@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skybox
+  m_Shader: {fileID: -6465566751694194690, guid: 3a3fb3ce7e2d84c4b838e5889f723ab9, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_028eba74586e42c8ac92d34c37a77d56:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4d9a2e07f33e47da9d30783486e8c937:
+        m_Texture: {fileID: 2800000, guid: 71d86f4384c367b439288606d81bdd3a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5203bf89b8474db4b62750283ac4dbc0:
+        m_Texture: {fileID: 2800000, guid: b622c0a79b6eba4429946df8d91c1428, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_ff58c20a8f784811a97db2e82dd06166:
+        m_Texture: {fileID: 2800000, guid: 35f9687f67604fc468d0a9480747d2fa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Time: 1.0858727
+    - Vector1_02960bbf63d149dfb42a341045a02881: 15
+    - Vector1_1: 0.7
+    - Vector1_129f3477e7c541b9a0f46bfee5e8a64c: 0.4
+    - Vector1_1d8fd691f0f1467dbdc18d3c1c466fb9: 1.5
+    - Vector1_1db59b6439ce4e628085095c125475df: 0
+    - Vector1_2: 0
+    - Vector1_37ce90a6f6c94240ad572110f19ad713: 0.51
+    - Vector1_440fb8c25a0044a7a7cc536da6855b40: 109.89
+    - Vector1_45634eb027a64997a933f329397370a2: 0.3
+    - Vector1_4f071a492bee4111b9635b456b8760e7: 3
+    - Vector1_5121785568df48edbd6586ad57cd933a: 0.4
+    - Vector1_5b63727d5b70409ebfec72dfa93a0331: 1
+    - Vector1_66498f8aa15f40c8bb160a06d820027b: 0.15
+    - Vector1_74dc3b7454634ad0b981743fffe3787d: 0.5
+    - Vector1_83d9cf3fffc2417eb9161e3f763d2400: 7
+    - Vector1_8f6eab557e7242ff947443c6ef0cbd8c: 2
+    - Vector1_9066e3e35c464bc182d890fde9785a30: 0.7
+    - Vector1_967af7fda8464525a8c12dba8d8ea6e2: 8.44
+    - Vector1_9b1862cb4abd447f89f9998fb52139df: 1.33
+    - Vector1_a3f8e2b2054c4d64bcea1ba40b7a8a87: 3
+    - Vector1_ae2fec869217466597ea9e27fd3b8c6a: 1
+    - Vector1_af1a75e65b2e44f6b47a41500ad9155b: 0.4
+    - Vector1_bb4eeab535f649829bc230d1c744854c: 3.55
+    - Vector1_e07654ec324841a48baf102be6aad0d4: 3
+    - Vector1_e73218701d0146ea8556245ac7c27a6a: 0
+    - Vector1_f726e11d190941e882bdac3367c5449b: 0.396
+    - Vector1_f726e11d190941e882bdac3367c5449b_1: 0.1
+    - Vector1_fd617b18e7aa4b619b4314fd859e4cc4: 0.1
+    m_Colors:
+    - Color_10f1fcbd122b40da98a9ec8407662c30: {r: 0, g: 0.23412418, b: 0.36900002, a: 1}
+    - Color_2537bce1b51547ec98e568f0219ab69a: {r: 1, g: 1, b: 1, a: 1}
+    - Color_498f67a73d4241aa948535f82a4ccaed: {r: 1, g: 0.72604614, b: 0, a: 0}
+    - Color_4fcedff470be459a8851b52ce64f44b6: {r: 0.04033334, g: 0.07874604, b: 0.12100001, a: 1}
+    - Color_564cec5630c64ea5846171c3272ef568: {r: 0.007893808, g: 0.11643363, b: 0.22299999, a: 0.972549}
+    - Color_67ea4d7169404cf4857198f06992b7f4: {r: 1, g: 0.6784314, b: 0.41960785, a: 0}
+    - Color_706757af192a4f06a50beea9fc50c7c3: {r: 0.3529412, g: 0.6627451, b: 1, a: 0}
+    - Color_81dbf55325f94602ad5162efdce18267: {r: 0, g: 0.7294121, b: 1, a: 0}
+    - Color_c8c0a81a48294945b2e205e1e8d19c16: {r: 1, g: 0.9176471, b: 0.77647066, a: 0}
+    - Color_f725b6e309ff4ebda3bbeb289f32fdbb: {r: 0, g: 1, b: 0.75814915, a: 0}
+    - Vector2_2c31629e29a94367a3430a5df27a2d47: {r: 5, g: 5, b: 0, a: 0}
+    - Vector2_3176a7f0de5b4943959a828b5d79992a: {r: 0.05, g: 0.05, b: 0, a: 0}
+    - Vector2_f1d2df57ece34dc68c18707396687495: {r: -3.35, g: -0.02, b: 0, a: 0}
+  m_BuildTextureStacks: []

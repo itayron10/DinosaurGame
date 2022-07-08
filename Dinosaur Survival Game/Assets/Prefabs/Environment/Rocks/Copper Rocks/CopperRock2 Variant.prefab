@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7097247898408591854
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4056236157871666745, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 5244915625381210605, guid: acf40ac4d310e964aaa3f28298a6aeb8, type: 3}
+    - target: {fileID: -4056236157871666745, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 29461375228048510, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Height
+      value: 6.72805
+      objectReference: {fileID: 0}
+    - target: {fileID: 29461375228048510, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Radius
+      value: 1.5835385
+      objectReference: {fileID: 0}
+    - target: {fileID: 29461375228048510, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Center.y
+      value: 1.4564614
+      objectReference: {fileID: 0}
+    - target: {fileID: 29461375228048510, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Center.z
+      value: 0.26097488
+      objectReference: {fileID: 0}
+    - target: {fileID: 139037577403530270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: lootDrops.Array.data[0].lootItemPrefab
+      value: 
+      objectReference: {fileID: 5594589375030815088, guid: 09586ad26114b06459487906aefcddc1, type: 3}
+    - target: {fileID: 6242841904238064899, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 748805998829659061, guid: 35de643872399304191697e1197e8160, type: 3}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993206452546927270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7387703611338923347, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -4777741520700874498, guid: 03eb5ed62b80352489339f5687674bd7, type: 3}
+    - target: {fileID: 7658103551624159260, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Name
+      value: CopperRock2 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7658103551624159260, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8162757742295548361, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
