@@ -61,7 +61,11 @@ PrefabInstance:
       objectReference: {fileID: 4970989848755135003, guid: c364fd3c14d264044b0c000392824a19, type: 3}
     - target: {fileID: 3123281474553465805, guid: 45d50faef27eefa4c9f0dc43627b761b, type: 3}
       propertyPath: m_Name
-      value: Carrot  Item
+      value: Carrot Item Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3887504558099721502, guid: 45d50faef27eefa4c9f0dc43627b761b, type: 3}
+      propertyPath: m_Center.y
+      value: 0.45
       objectReference: {fileID: 0}
     - target: {fileID: 5384291594024738219, guid: 45d50faef27eefa4c9f0dc43627b761b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -74,6 +78,10 @@ PrefabInstance:
     - target: {fileID: 9097873181175315066, guid: 45d50faef27eefa4c9f0dc43627b761b, type: 3}
       propertyPath: m_Radius
       value: 0.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 9097873181175315066, guid: 45d50faef27eefa4c9f0dc43627b761b, type: 3}
+      propertyPath: m_Center.y
+      value: 0.45
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45d50faef27eefa4c9f0dc43627b761b, type: 3}

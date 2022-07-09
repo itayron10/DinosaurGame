@@ -63,6 +63,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: -7633896560097655829, guid: 546744c93c6c47c4d84bc325100e953c, type: 3}
+    - target: {fileID: 5588810232822317612, guid: 7f57f6698137dd74da8969901ed62d09, type: 3}
+      propertyPath: lootDrops.Array.data[0].lootItemPrefab
+      value: 
+      objectReference: {fileID: 5864723428645721052, guid: 7de8be8c894017e4ea1761fd5dd28c9a, type: 3}
     - target: {fileID: 8692412110683560627, guid: 7f57f6698137dd74da8969901ed62d09, type: 3}
       propertyPath: m_Name
       value: Bush1 Variant

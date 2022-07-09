@@ -30,7 +30,7 @@ public class Interacter : MonoBehaviour
         SubscribeToInput();
     }
 
-    private void Update() => CheckForInteractables();
+    private void FixedUpdate() => CheckForInteractables();
 
     private void SetSingelton()
     {

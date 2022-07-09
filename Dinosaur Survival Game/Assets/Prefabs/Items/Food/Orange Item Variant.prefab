@@ -11,8 +11,8 @@ SphereCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.73
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Radius: 0.49
+  m_Center: {x: 0, y: 0.2, z: 0}
 --- !u!1001 &711367504392633003
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24,9 +24,13 @@ PrefabInstance:
       propertyPath: rmsCount
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 256948309237573927, guid: 70e6272b783725b4ca2960e2cc72023d, type: 3}
+      propertyPath: m_Center.y
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 2106543436857446388, guid: 70e6272b783725b4ca2960e2cc72023d, type: 3}
       propertyPath: m_Name
-      value: Orange Item
+      value: Orange Item Variant
       objectReference: {fileID: 0}
     - target: {fileID: 2899843316707758574, guid: 70e6272b783725b4ca2960e2cc72023d, type: 3}
       propertyPath: m_Mesh

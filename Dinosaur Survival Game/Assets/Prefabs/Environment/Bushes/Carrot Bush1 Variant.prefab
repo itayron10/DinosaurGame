@@ -7,6 +7,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 398195906565008368, guid: 5707ed41a13c04f499c1e3b806c1e178, type: 3}
+      propertyPath: lootDrops.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 398195906565008368, guid: 5707ed41a13c04f499c1e3b806c1e178, type: 3}
+      propertyPath: lootDrops.Array.data[1].spawnChance
+      value: 0.857
+      objectReference: {fileID: 0}
+    - target: {fileID: 398195906565008368, guid: 5707ed41a13c04f499c1e3b806c1e178, type: 3}
+      propertyPath: lootDrops.Array.data[1].lootItemPrefab
+      value: 
+      objectReference: {fileID: 440555755319432062, guid: 5b9c390b0a4bb114ea1475e8da253000, type: 3}
+    - target: {fileID: 398195906565008368, guid: 5707ed41a13c04f499c1e3b806c1e178, type: 3}
+      propertyPath: lootDrops.Array.data[1].droppedItemStackAmount.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 398195906565008368, guid: 5707ed41a13c04f499c1e3b806c1e178, type: 3}
+      propertyPath: lootDrops.Array.data[1].droppedItemStackAmount.y
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 3506187104759313263, guid: 5707ed41a13c04f499c1e3b806c1e178, type: 3}
       propertyPath: m_Name
       value: Carrot Bush1 Variant

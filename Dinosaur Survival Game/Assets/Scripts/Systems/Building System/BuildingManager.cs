@@ -67,6 +67,7 @@ public class BuildingManager : MonoBehaviour
 
     public void DestroyBuilding(Building buildingToDestroy)
     {
+        if (!buildingToDestroy) { return; }
         DestroyImmediate(buildingToDestroy.gameObject);
         if (buildingInstnace == buildingToDestroy) SetBuildingInstance(null);
     }

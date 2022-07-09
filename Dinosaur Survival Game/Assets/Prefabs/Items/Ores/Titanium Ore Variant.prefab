@@ -71,6 +71,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Titanium Ore Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 7373331996146027418, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_Drag
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7373331996146027418, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_AngularDrag
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8415453202043660808, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
       propertyPath: m_Mesh
       value: 

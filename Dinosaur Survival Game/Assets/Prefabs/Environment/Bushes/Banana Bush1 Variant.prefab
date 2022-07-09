@@ -20,6 +20,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 398195906565008368, guid: 5707ed41a13c04f499c1e3b806c1e178, type: 3}
+      propertyPath: lootDrops.Array.data[0].lootItemPrefab
+      value: 
+      objectReference: {fileID: 7323272242103510226, guid: 8bac4ee016b4dfa4c8792e633e257b2e, type: 3}
     - target: {fileID: 3506187104759313263, guid: 5707ed41a13c04f499c1e3b806c1e178, type: 3}
       propertyPath: m_Name
       value: Banana Bush1 Variant

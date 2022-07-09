@@ -7,6 +7,42 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[3].spawnChance
+      value: 0.233
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[4].spawnChance
+      value: 0.318
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[3].lootItemPrefab
+      value: 
+      objectReference: {fileID: 892689636621021664, guid: 45d50faef27eefa4c9f0dc43627b761b, type: 3}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[4].lootItemPrefab
+      value: 
+      objectReference: {fileID: 5873852365588497494, guid: fdedc5eb65b023f4593bb1d67f0a3606, type: 3}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[3].droppedItemStackAmount.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[3].droppedItemStackAmount.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[4].droppedItemStackAmount.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[4].droppedItemStackAmount.y
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 5981380005948238987, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
       propertyPath: m_Name
       value: Lemon Tree Variant

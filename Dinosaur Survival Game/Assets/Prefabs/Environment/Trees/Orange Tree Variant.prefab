@@ -7,6 +7,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[4].spawnChance
+      value: 0.301
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[4].lootItemPrefab
+      value: 
+      objectReference: {fileID: 3737949667386920818, guid: 23be2aebb331bd04e9ba250e1dab5a75, type: 3}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[4].droppedItemStackAmount.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599177697273481241, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
+      propertyPath: lootDrops.Array.data[4].droppedItemStackAmount.y
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5981380005948238987, guid: ff9ff745bea1ea343a99b9461fe87f49, type: 3}
       propertyPath: m_Name
       value: Orange Tree Variant

@@ -57,7 +57,7 @@ namespace HighlightPlus {
                 int camLayer = 1 << cam.gameObject.layer;
 
                 RenderTargetIdentifier cameraColorTarget = renderer.cameraColorTarget;
-                RenderTargetIdentifier cameraDepthTarget = renderer.cameraDepth;
+                RenderTargetIdentifier cameraDepthTarget = renderer.cameraDepthTarget;
                 if (!usesCameraOverlay && (cameraTextureDescriptor.msaaSamples > 1 || cam.cameraType == CameraType.SceneView)) {
                     cameraDepthTarget = cameraColorTarget;
                 }

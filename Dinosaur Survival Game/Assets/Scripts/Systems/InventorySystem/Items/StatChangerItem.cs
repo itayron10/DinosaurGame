@@ -54,13 +54,13 @@ public class StatChangerItem : ActionItem
     {
         // set the animation trigger
         itemAnimator?.SetTrigger(onUseAnimationTriggerName);
+        // reset the delay, we can't use the item right after using it we have a bit of delay
+        canBeUsed = false;
         yield return new WaitForSeconds(itemAnimator.GetAnimator().GetCurrentAnimatorClipInfo(0).Length);
         // set the stat amount
         Stat.SetStatAmount(Stat.GetStatAmount() + statIncreaseAmount);
         // remove a single item from the inventory
         GetItem().itemStackAmount--;
-        // reset the delay, we can't use the item right after using it we have a bit of delay
-        canBeUsed = false;
     }
 
 }

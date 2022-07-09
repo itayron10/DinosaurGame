@@ -17,6 +17,7 @@ public class InteractableCanvasHighlight : MonoBehaviour
     private void Update()
     {
         // setting a canvas enabled based on the interactable canInteract bool
-        highlightCanvas.enabled = interactable.IsInteractable();
+        if (highlightCanvas.gameObject.activeInHierarchy != interactable.IsInteractable())
+            highlightCanvas.gameObject.SetActive(interactable.IsInteractable());
     }
 }

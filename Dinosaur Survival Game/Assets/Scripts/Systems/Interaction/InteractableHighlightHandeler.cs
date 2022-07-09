@@ -20,6 +20,6 @@ public class InteractableHighlightHandeler : MonoBehaviour
     private void Update()
     {
         // setting a highlight effect based on the interactable canInteract bool
-        highlightEffect.highlighted = interactable.IsInteractable();
+        highlightEffect.enabled = interactable.IsInteractable();
     }
 }

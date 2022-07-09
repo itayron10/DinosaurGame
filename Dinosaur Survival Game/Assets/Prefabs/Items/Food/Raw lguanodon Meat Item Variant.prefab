@@ -9,11 +9,31 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2103226692, guid: ef7ddff1625818a4a8bb665a28cb5164, type: 3}
       propertyPath: m_Size.x
-      value: 1.6195209
+      value: 0.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 2103226692, guid: ef7ddff1625818a4a8bb665a28cb5164, type: 3}
+      propertyPath: m_Size.y
+      value: 1.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 2103226692, guid: ef7ddff1625818a4a8bb665a28cb5164, type: 3}
+      propertyPath: m_Size.z
+      value: 1.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 2103226692, guid: ef7ddff1625818a4a8bb665a28cb5164, type: 3}
+      propertyPath: m_Center.y
+      value: 0.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 5131141570128544620, guid: ef7ddff1625818a4a8bb665a28cb5164, type: 3}
+      propertyPath: m_Size.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5131141570128544620, guid: ef7ddff1625818a4a8bb665a28cb5164, type: 3}
+      propertyPath: m_Center.y
+      value: 0.67
       objectReference: {fileID: 0}
     - target: {fileID: 6457692554634667455, guid: ef7ddff1625818a4a8bb665a28cb5164, type: 3}
       propertyPath: m_Name
-      value: Raw lguanodon Meat Item
+      value: Raw lguanodon Meat Item Variant
       objectReference: {fileID: 0}
     - target: {fileID: 7826120441261898661, guid: ef7ddff1625818a4a8bb665a28cb5164, type: 3}
       propertyPath: m_Mesh

@@ -143,7 +143,7 @@ MonoBehaviour:
   attackCooldown: 1.1
   critChance: 0.012
   swingTimedDuration: 0.218
-  hitScreenShakeSettings: {fileID: 0}
+  hitScreenShakeSettings: {fileID: 11400000, guid: 333a3e3289112314380ed1108b6ba830, type: 2}
   popUpPrefab: {fileID: 3822475736169368489, guid: c1902b5d3f68ae7438c0a13988dcface, type: 3}
   popUpSpawningOffset: {x: 0, y: 0.1, z: 0.1}
   popUpAliveTime: 1

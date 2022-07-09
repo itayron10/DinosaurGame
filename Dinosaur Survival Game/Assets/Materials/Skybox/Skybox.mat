@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Time: 1.0858727
+    - Time: 1.1242572
     - Vector1_02960bbf63d149dfb42a341045a02881: 15
     - Vector1_1: 0.7
     - Vector1_129f3477e7c541b9a0f46bfee5e8a64c: 0.4

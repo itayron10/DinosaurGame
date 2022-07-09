@@ -7,6 +7,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 559662026325454163, guid: e3f7a821f2dbfb84697c4381099c11a4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1184411108583932122, guid: e3f7a821f2dbfb84697c4381099c11a4, type: 3}
+      propertyPath: m_Size.x
+      value: 1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 1184411108583932122, guid: e3f7a821f2dbfb84697c4381099c11a4, type: 3}
+      propertyPath: m_Size.y
+      value: 1.5244342
+      objectReference: {fileID: 0}
+    - target: {fileID: 1184411108583932122, guid: e3f7a821f2dbfb84697c4381099c11a4, type: 3}
+      propertyPath: m_Size.z
+      value: 1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 1184411108583932122, guid: e3f7a821f2dbfb84697c4381099c11a4, type: 3}
+      propertyPath: m_Center.y
+      value: 0.7622171
+      objectReference: {fileID: 0}
     - target: {fileID: 1871737147308548446, guid: e3f7a821f2dbfb84697c4381099c11a4, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -59,6 +79,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3168984654897145854, guid: e3f7a821f2dbfb84697c4381099c11a4, type: 3}
+      propertyPath: lootDrops.Array.data[0].lootItemPrefab
+      value: 
+      objectReference: {fileID: 860026728765984885, guid: 21ba0998f95a5ef4988abc3c2885d323, type: 3}
     - target: {fileID: 3374993832587142651, guid: e3f7a821f2dbfb84697c4381099c11a4, type: 3}
       propertyPath: m_Size
       value: 1.5806601

@@ -9,27 +9,43 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2103226692, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
       propertyPath: m_Height
-      value: 2.7066803
+      value: 1.965929
+      objectReference: {fileID: 0}
+    - target: {fileID: 2103226692, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Radius
+      value: 0.25526708
+      objectReference: {fileID: 0}
+    - target: {fileID: 2103226692, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Center.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2103226692, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Center.y
+      value: 0.49385357
       objectReference: {fileID: 0}
     - target: {fileID: 2103226692, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
       propertyPath: m_Center.z
-      value: 0.13718748
+      value: -0.06859398
       objectReference: {fileID: 0}
     - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
       propertyPath: m_Size.x
-      value: 2.4
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
       propertyPath: m_Size.y
-      value: 2.4
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
       propertyPath: m_Size.z
-      value: 2.4
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
       propertyPath: m_Center.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
+      propertyPath: m_Center.y
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 5124866194030311256, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
       propertyPath: m_Center.z
@@ -37,7 +53,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6463793147208667531, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
       propertyPath: m_Name
-      value: Raw Ankylosaurs Meat Item
+      value: Raw Ankylosaurs Meat Item Variant
       objectReference: {fileID: 0}
     - target: {fileID: 7832221165929336721, guid: 32136f65b73e01a408335aa6e0dc7b12, type: 3}
       propertyPath: m_Mesh

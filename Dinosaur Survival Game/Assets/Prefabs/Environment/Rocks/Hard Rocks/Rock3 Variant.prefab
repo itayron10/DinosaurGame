@@ -23,6 +23,30 @@ PrefabInstance:
       propertyPath: m_Center.y
       value: 1.5604234
       objectReference: {fileID: 0}
+    - target: {fileID: 139037577403530270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: lootDrops.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 139037577403530270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: lootDrops.Array.data[1].spawnChance
+      value: 0.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 139037577403530270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: lootDrops.Array.data[0].lootItemPrefab
+      value: 
+      objectReference: {fileID: 3904507546412337305, guid: 3f4f8fec6c15ef04ba72b4639bdda436, type: 3}
+    - target: {fileID: 139037577403530270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: lootDrops.Array.data[1].lootItemPrefab
+      value: 
+      objectReference: {fileID: 736008920662832406, guid: 23166610a165fa04093e791c05009b28, type: 3}
+    - target: {fileID: 139037577403530270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: lootDrops.Array.data[1].droppedItemStackAmount.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 139037577403530270, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
+      propertyPath: lootDrops.Array.data[1].droppedItemStackAmount.y
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6242841904238064899, guid: 98d8e49e2fd00e449a07cf0b27f7e105, type: 3}
       propertyPath: m_Mesh
       value: 

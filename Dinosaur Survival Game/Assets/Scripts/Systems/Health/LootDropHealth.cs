@@ -14,9 +14,11 @@ public class LootDropHealth : BasicHealth
             if (Random.value <= lootDrop.GetSpawnChance)
             {
                 // instatiate the dropped item
+                if (!lootDrop.GetLootItemPrefab) { continue; }
                 Item droppedItem = Instantiate(lootDrop.GetLootItemPrefab, 
                     transform.position + lootDropSpawnPositionOffset,
                    Quaternion.identity);
+                Debug.Log(droppedItem);
                 // set the dropped item stack amount based on the DroppedItemStackAmount variable of the lootDrop
                 droppedItem.itemStackAmount = Random.Range(lootDrop.GetDroppedItemStackAmount.x,
                     lootDrop.GetDroppedItemStackAmount.y);

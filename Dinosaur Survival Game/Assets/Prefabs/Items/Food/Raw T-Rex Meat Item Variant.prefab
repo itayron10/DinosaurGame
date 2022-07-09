@@ -10,10 +10,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.46
-  m_Height: 2.274446
-  m_Direction: 2
-  m_Center: {x: 0, y: 0, z: -0.018392801}
+  m_Radius: 0.3
+  m_Height: 1.67
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.46, z: 0}
 --- !u!1001 &5463576197713440839
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21,9 +21,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 922581774400784159, guid: 2280772d91ad9de429a8e03008d815a9, type: 3}
+      propertyPath: m_Size.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 922581774400784159, guid: 2280772d91ad9de429a8e03008d815a9, type: 3}
+      propertyPath: m_Size.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 922581774400784159, guid: 2280772d91ad9de429a8e03008d815a9, type: 3}
+      propertyPath: m_Size.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 922581774400784159, guid: 2280772d91ad9de429a8e03008d815a9, type: 3}
+      propertyPath: m_Center.y
+      value: 0.58
+      objectReference: {fileID: 0}
     - target: {fileID: 1325892293743813068, guid: 2280772d91ad9de429a8e03008d815a9, type: 3}
       propertyPath: m_Name
-      value: Raw T-Rex Meat Item
+      value: Raw T-Rex Meat Item Variant
       objectReference: {fileID: 0}
     - target: {fileID: 2838154235999076310, guid: 2280772d91ad9de429a8e03008d815a9, type: 3}
       propertyPath: m_Mesh

@@ -103,5 +103,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bush2 Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 8803283159354899577, guid: 9c7bd3e164bf7fb40b6e1171fad29123, type: 3}
+      propertyPath: lootDrops.Array.data[0].lootItemPrefab
+      value: 
+      objectReference: {fileID: 5864723428645721052, guid: 7de8be8c894017e4ea1761fd5dd28c9a, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c7bd3e164bf7fb40b6e1171fad29123, type: 3}

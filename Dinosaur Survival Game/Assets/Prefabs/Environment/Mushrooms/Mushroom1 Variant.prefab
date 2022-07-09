@@ -7,6 +7,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -3520552867240813497, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
+      propertyPath: m_Center.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -3357357086023038363, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
+      propertyPath: lootDrops.Array.data[0].lootItemPrefab
+      value: 
+      objectReference: {fileID: 5430967153342217568, guid: b85486d8859b7674d8ebbd5be3e31b04, type: 3}
     - target: {fileID: -1036453040435922586, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
       propertyPath: m_Size
       value: 1.2123163
@@ -19,6 +27,14 @@ PrefabInstance:
       propertyPath: m_LocalReferencePoint.y
       value: 0.6071987
       objectReference: {fileID: 0}
+    - target: {fileID: -814629600448332957, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
+      propertyPath: lootDrops.Array.data[0].lootItemPrefab
+      value: 
+      objectReference: {fileID: 3382212022313034901, guid: 18c83c9d10edfa742afb75d6a7573b3f, type: 3}
+    - target: {fileID: -814629600448332957, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
+      propertyPath: lootDrops.Array.data[0].droppedItemStackAmount.y
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4987300719414234078, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
       propertyPath: m_Name
       value: Mushroom1 Variant
@@ -27,6 +43,26 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 4727738915892571143, guid: d1f1f6456961c2343bcb3ef28ceea98c, type: 3}
+    - target: {fileID: 6381589492006629838, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 9108411644571344783, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
+      propertyPath: ignore
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9108411644571344783, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
+      propertyPath: rmsCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9108411644571344783, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
+      propertyPath: _highlighted
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9108411644571344783, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
+      propertyPath: previewInEditor
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9191359933233323915, guid: fa0eb53a4e4fc2e46987a03addc86a75, type: 3}
       propertyPath: m_RootOrder
       value: 0

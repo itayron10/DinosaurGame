@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!135 &968202390
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3471292546245014176}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.56
+  m_Center: {x: 0, y: 0.32, z: 0}
+--- !u!1001 &7471542791300413811
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4291549220203066198, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: itemScriptableObject
+      value: 
+      objectReference: {fileID: 11400000, guid: a7fe35c34685f2d4d9afa641de177e29, type: 2}
+    - target: {fileID: 1081784261936098853, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: rmsCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -14.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1475856657990965240, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6313134877322660819, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_Name
+      value: T-Rex Eye
+      objectReference: {fileID: 0}
+    - target: {fileID: 6711542285196048038, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_Center.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8415453202043660808, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 1359503793005637852, guid: 07fe33e65885b2641b57c028a2fb5f0c, type: 3}
+    m_RemovedComponents:
+    - {fileID: 932985501575487994, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+--- !u!1 &3471292546245014176 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6313134877322660819, guid: 3be0586be3eec1b43af5dbc02bbec3a4, type: 3}
+  m_PrefabInstance: {fileID: 7471542791300413811}
+  m_PrefabAsset: {fileID: 0}

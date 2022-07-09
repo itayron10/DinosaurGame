@@ -51,6 +51,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1776621296067400181, guid: 6e8c8631aa985c84abcc9c16588e50a2, type: 3}
+      propertyPath: lootDrops.Array.data[0].lootItemPrefab
+      value: 
+      objectReference: {fileID: 5000711168411703382, guid: 5b96406ec95f73f459bf56b09bd9c358, type: 3}
     - target: {fileID: 2129022183522866160, guid: 6e8c8631aa985c84abcc9c16588e50a2, type: 3}
       propertyPath: m_Size
       value: 1.9836084
@@ -67,6 +71,14 @@ PrefabInstance:
       propertyPath: m_LocalReferencePoint.z
       value: -0.000000029802322
       objectReference: {fileID: 0}
+    - target: {fileID: 2536215742586500817, guid: 6e8c8631aa985c84abcc9c16588e50a2, type: 3}
+      propertyPath: m_Size.y
+      value: 1.9617052
+      objectReference: {fileID: 0}
+    - target: {fileID: 2536215742586500817, guid: 6e8c8631aa985c84abcc9c16588e50a2, type: 3}
+      propertyPath: m_Center.y
+      value: 0.9808526
+      objectReference: {fileID: 0}
     - target: {fileID: 2963503256611037512, guid: 6e8c8631aa985c84abcc9c16588e50a2, type: 3}
       propertyPath: m_Name
       value: Mushroom3 Variant
@@ -75,5 +87,9 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 3750865577328910504, guid: d1f1f6456961c2343bcb3ef28ceea98c, type: 3}
+    - target: {fileID: 3790338475200633688, guid: 6e8c8631aa985c84abcc9c16588e50a2, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 2.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6e8c8631aa985c84abcc9c16588e50a2, type: 3}
